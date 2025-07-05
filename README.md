@@ -84,7 +84,7 @@ To develop an **automated deep learning model** using **Convolutional Neural Net
 * Expand to detect more diseases
 
 ---
-This project involved developing a machine learning model using Convolutional Neural Networks (CNN) to detect and classify major rice leaf diseases such as leaf blast, bacterial blight, and brown spot. The system utilizes image processing techniques to analyze leaf images and accurately identify the disease type, enabling timely intervention for farmers to manage and mitigate crop losses effectively.
+This project involved developing a deep learning model using Convolutional Neural Networks (CNN) to detect and classify major rice leaf diseases such as leaf blast, bacterial blight, and brown spot. The system utilizes image processing techniques to analyze leaf images and accurately identify the disease type, enabling timely intervention for farmers to manage and mitigate crop losses effectively.
 
 <!---
 praveenveeramani/praveenveeramani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
